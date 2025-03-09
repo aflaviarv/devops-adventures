@@ -1,5 +1,5 @@
 # 🚀 DevOps Adventure
-##Welcome to DevOps Adventure – a journey through the world of DevOps, automation, and cloud-native technologies! 🌍☁️
+### Welcome to DevOps Adventure – a journey through the world of DevOps, automation, and cloud-native technologies! 🌍☁️
 
 ## 🎯 What’s this about?
 This repository is our hands-on DevOps playground where we explore, build, and break things to learn from the chaos. From CI/CD pipelines to Kubernetes clusters, from infrastructure as code (IaC) to observability, this is where we push the boundaries of what we know.
